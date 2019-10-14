@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="49" started-at="2019-10-12T13:47:34Z" finished-at="2019-10-12T13:47:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="49" started-at="2019-10-12T13:47:34Z" finished-at="2019-10-12T13:47:34Z">
+      <class name="FirstProject.FirstCode">
+        <test-method status="PASS" signature="print()[pri:0, instance:FirstProject.FirstCode@50cbc42f]" name="print" duration-ms="31" started-at="2019-10-12T19:17:34Z" finished-at="2019-10-12T19:17:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- print -->
+      </class> <!-- FirstProject.FirstCode -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
